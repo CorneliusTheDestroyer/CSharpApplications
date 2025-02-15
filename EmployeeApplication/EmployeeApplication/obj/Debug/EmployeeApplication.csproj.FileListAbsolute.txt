@@ -1,0 +1,7 @@
+C:\Learning\CSharpApplications\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.exe.config
+C:\Learning\CSharpApplications\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.exe
+C:\Learning\CSharpApplications\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.pdb
+C:\Learning\CSharpApplications\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.AssemblyReference.cache
+C:\Learning\CSharpApplications\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.CoreCompileInputs.cache
+C:\Learning\CSharpApplications\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.exe
+C:\Learning\CSharpApplications\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.pdb

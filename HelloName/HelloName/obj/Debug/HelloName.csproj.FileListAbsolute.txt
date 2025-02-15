@@ -1,0 +1,7 @@
+C:\Learning\CSharpApplications\HelloName\HelloName\bin\Debug\HelloName.exe.config
+C:\Learning\CSharpApplications\HelloName\HelloName\bin\Debug\HelloName.exe
+C:\Learning\CSharpApplications\HelloName\HelloName\bin\Debug\HelloName.pdb
+C:\Learning\CSharpApplications\HelloName\HelloName\obj\Debug\HelloName.csproj.AssemblyReference.cache
+C:\Learning\CSharpApplications\HelloName\HelloName\obj\Debug\HelloName.csproj.CoreCompileInputs.cache
+C:\Learning\CSharpApplications\HelloName\HelloName\obj\Debug\HelloName.exe
+C:\Learning\CSharpApplications\HelloName\HelloName\obj\Debug\HelloName.pdb

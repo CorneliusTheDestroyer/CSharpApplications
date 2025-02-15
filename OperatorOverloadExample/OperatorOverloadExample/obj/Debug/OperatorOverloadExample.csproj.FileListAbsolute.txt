@@ -1,0 +1,7 @@
+C:\Learning\CSharpApplications\OperatorOverloadExample\OperatorOverloadExample\bin\Debug\OperatorOverloadExample.exe.config
+C:\Learning\CSharpApplications\OperatorOverloadExample\OperatorOverloadExample\bin\Debug\OperatorOverloadExample.exe
+C:\Learning\CSharpApplications\OperatorOverloadExample\OperatorOverloadExample\bin\Debug\OperatorOverloadExample.pdb
+C:\Learning\CSharpApplications\OperatorOverloadExample\OperatorOverloadExample\obj\Debug\OperatorOverloadExample.csproj.AssemblyReference.cache
+C:\Learning\CSharpApplications\OperatorOverloadExample\OperatorOverloadExample\obj\Debug\OperatorOverloadExample.csproj.CoreCompileInputs.cache
+C:\Learning\CSharpApplications\OperatorOverloadExample\OperatorOverloadExample\obj\Debug\OperatorOverloadExample.exe
+C:\Learning\CSharpApplications\OperatorOverloadExample\OperatorOverloadExample\obj\Debug\OperatorOverloadExample.pdb

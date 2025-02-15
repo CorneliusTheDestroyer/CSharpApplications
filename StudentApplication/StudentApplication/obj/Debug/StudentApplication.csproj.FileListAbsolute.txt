@@ -1,0 +1,7 @@
+C:\Learning\CSharpApplications\StudentApplication\StudentApplication\bin\Debug\StudentApplication.exe.config
+C:\Learning\CSharpApplications\StudentApplication\StudentApplication\bin\Debug\StudentApplication.exe
+C:\Learning\CSharpApplications\StudentApplication\StudentApplication\bin\Debug\StudentApplication.pdb
+C:\Learning\CSharpApplications\StudentApplication\StudentApplication\obj\Debug\StudentApplication.csproj.AssemblyReference.cache
+C:\Learning\CSharpApplications\StudentApplication\StudentApplication\obj\Debug\StudentApplication.csproj.CoreCompileInputs.cache
+C:\Learning\CSharpApplications\StudentApplication\StudentApplication\obj\Debug\StudentApplication.exe
+C:\Learning\CSharpApplications\StudentApplication\StudentApplication\obj\Debug\StudentApplication.pdb

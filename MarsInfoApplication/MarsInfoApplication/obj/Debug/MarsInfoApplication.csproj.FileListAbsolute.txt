@@ -1,0 +1,10 @@
+C:\Learning\CSharpApplications\MarsInfoApplication\MarsInfoApplication\bin\Debug\MarsInfoApplication.exe.config
+C:\Learning\CSharpApplications\MarsInfoApplication\MarsInfoApplication\bin\Debug\MarsInfoApplication.exe
+C:\Learning\CSharpApplications\MarsInfoApplication\MarsInfoApplication\bin\Debug\MarsInfoApplication.pdb
+C:\Learning\CSharpApplications\MarsInfoApplication\MarsInfoApplication\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Learning\CSharpApplications\MarsInfoApplication\MarsInfoApplication\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Learning\CSharpApplications\MarsInfoApplication\MarsInfoApplication\obj\Debug\MarsInfoApplication.csproj.AssemblyReference.cache
+C:\Learning\CSharpApplications\MarsInfoApplication\MarsInfoApplication\obj\Debug\MarsInfoApplication.csproj.CoreCompileInputs.cache
+C:\Learning\CSharpApplications\MarsInfoApplication\MarsInfoApplication\obj\Debug\MarsInfo.78A9B9FD.Up2Date
+C:\Learning\CSharpApplications\MarsInfoApplication\MarsInfoApplication\obj\Debug\MarsInfoApplication.exe
+C:\Learning\CSharpApplications\MarsInfoApplication\MarsInfoApplication\obj\Debug\MarsInfoApplication.pdb

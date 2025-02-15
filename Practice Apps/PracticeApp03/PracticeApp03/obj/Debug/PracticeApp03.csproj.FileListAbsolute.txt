@@ -1,0 +1,7 @@
+C:\Learning\CSharpApplications\PracticeApp03\PracticeApp03\bin\Debug\PracticeApp03.exe.config
+C:\Learning\CSharpApplications\PracticeApp03\PracticeApp03\bin\Debug\PracticeApp03.exe
+C:\Learning\CSharpApplications\PracticeApp03\PracticeApp03\bin\Debug\PracticeApp03.pdb
+C:\Learning\CSharpApplications\PracticeApp03\PracticeApp03\obj\Debug\PracticeApp03.csproj.AssemblyReference.cache
+C:\Learning\CSharpApplications\PracticeApp03\PracticeApp03\obj\Debug\PracticeApp03.csproj.CoreCompileInputs.cache
+C:\Learning\CSharpApplications\PracticeApp03\PracticeApp03\obj\Debug\PracticeApp03.exe
+C:\Learning\CSharpApplications\PracticeApp03\PracticeApp03\obj\Debug\PracticeApp03.pdb

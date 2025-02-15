@@ -1,0 +1,7 @@
+C:\Learning\CSharpApplications\ValueTypeDemo\ValueTypeDemo\bin\Debug\ValueTypeDemo.exe.config
+C:\Learning\CSharpApplications\ValueTypeDemo\ValueTypeDemo\bin\Debug\ValueTypeDemo.exe
+C:\Learning\CSharpApplications\ValueTypeDemo\ValueTypeDemo\bin\Debug\ValueTypeDemo.pdb
+C:\Learning\CSharpApplications\ValueTypeDemo\ValueTypeDemo\obj\Debug\ValueTypeDemo.csproj.AssemblyReference.cache
+C:\Learning\CSharpApplications\ValueTypeDemo\ValueTypeDemo\obj\Debug\ValueTypeDemo.csproj.CoreCompileInputs.cache
+C:\Learning\CSharpApplications\ValueTypeDemo\ValueTypeDemo\obj\Debug\ValueTypeDemo.exe
+C:\Learning\CSharpApplications\ValueTypeDemo\ValueTypeDemo\obj\Debug\ValueTypeDemo.pdb

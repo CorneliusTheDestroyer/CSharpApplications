@@ -1,0 +1,7 @@
+C:\Learning\CSharpApplications\CSharpOperatorExamples\CSharpOperatorExamples\bin\Debug\CSharpOperatorExamples.exe.config
+C:\Learning\CSharpApplications\CSharpOperatorExamples\CSharpOperatorExamples\bin\Debug\CSharpOperatorExamples.exe
+C:\Learning\CSharpApplications\CSharpOperatorExamples\CSharpOperatorExamples\bin\Debug\CSharpOperatorExamples.pdb
+C:\Learning\CSharpApplications\CSharpOperatorExamples\CSharpOperatorExamples\obj\Debug\CSharpOperatorExamples.csproj.AssemblyReference.cache
+C:\Learning\CSharpApplications\CSharpOperatorExamples\CSharpOperatorExamples\obj\Debug\CSharpOperatorExamples.csproj.CoreCompileInputs.cache
+C:\Learning\CSharpApplications\CSharpOperatorExamples\CSharpOperatorExamples\obj\Debug\CSharpOperatorExamples.exe
+C:\Learning\CSharpApplications\CSharpOperatorExamples\CSharpOperatorExamples\obj\Debug\CSharpOperatorExamples.pdb
