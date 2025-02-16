@@ -1,0 +1,7 @@
+C:\Learning\CSharpApplications\EnumExamplesChatGPT\EnumExamplesChatGPT\bin\Debug\EnumExamplesChatGPT.exe.config
+C:\Learning\CSharpApplications\EnumExamplesChatGPT\EnumExamplesChatGPT\bin\Debug\EnumExamplesChatGPT.exe
+C:\Learning\CSharpApplications\EnumExamplesChatGPT\EnumExamplesChatGPT\bin\Debug\EnumExamplesChatGPT.pdb
+C:\Learning\CSharpApplications\EnumExamplesChatGPT\EnumExamplesChatGPT\obj\Debug\EnumExamplesChatGPT.csproj.AssemblyReference.cache
+C:\Learning\CSharpApplications\EnumExamplesChatGPT\EnumExamplesChatGPT\obj\Debug\EnumExamplesChatGPT.csproj.CoreCompileInputs.cache
+C:\Learning\CSharpApplications\EnumExamplesChatGPT\EnumExamplesChatGPT\obj\Debug\EnumExamplesChatGPT.exe
+C:\Learning\CSharpApplications\EnumExamplesChatGPT\EnumExamplesChatGPT\obj\Debug\EnumExamplesChatGPT.pdb
