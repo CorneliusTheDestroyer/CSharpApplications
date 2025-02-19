@@ -1,0 +1,9 @@
+C:\Learning\CSharpApplications\EncapsulationExample02\AssemblyTwo\bin\Debug\AssemblyTwo.dll
+C:\Learning\CSharpApplications\EncapsulationExample02\AssemblyTwo\bin\Debug\AssemblyTwo.pdb
+C:\Learning\CSharpApplications\EncapsulationExample02\AssemblyTwo\bin\Debug\AssemblyOne.dll
+C:\Learning\CSharpApplications\EncapsulationExample02\AssemblyTwo\bin\Debug\AssemblyOne.pdb
+C:\Learning\CSharpApplications\EncapsulationExample02\AssemblyTwo\obj\Debug\AssemblyTwo.csproj.AssemblyReference.cache
+C:\Learning\CSharpApplications\EncapsulationExample02\AssemblyTwo\obj\Debug\AssemblyTwo.csproj.CoreCompileInputs.cache
+C:\Learning\CSharpApplications\EncapsulationExample02\AssemblyTwo\obj\Debug\Assembly.4724B021.Up2Date
+C:\Learning\CSharpApplications\EncapsulationExample02\AssemblyTwo\obj\Debug\AssemblyTwo.dll
+C:\Learning\CSharpApplications\EncapsulationExample02\AssemblyTwo\obj\Debug\AssemblyTwo.pdb

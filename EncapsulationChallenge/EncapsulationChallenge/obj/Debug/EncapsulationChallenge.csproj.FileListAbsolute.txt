@@ -1,0 +1,14 @@
+C:\Learning\CSharpApplications\EncapsulationChallenge\EncapsulationChallenge\bin\Debug\EncapsulationChallenge.exe.config
+C:\Learning\CSharpApplications\EncapsulationChallenge\EncapsulationChallenge\bin\Debug\EncapsulationChallenge.exe
+C:\Learning\CSharpApplications\EncapsulationChallenge\EncapsulationChallenge\bin\Debug\EncapsulationChallenge.pdb
+C:\Learning\CSharpApplications\EncapsulationChallenge\EncapsulationChallenge\obj\Debug\EncapsulationChallenge.csproj.AssemblyReference.cache
+C:\Learning\CSharpApplications\EncapsulationChallenge\EncapsulationChallenge\obj\Debug\EncapsulationChallenge.csproj.CoreCompileInputs.cache
+C:\Learning\CSharpApplications\EncapsulationChallenge\EncapsulationChallenge\obj\Debug\EncapsulationChallenge.exe
+C:\Learning\CSharpApplications\EncapsulationChallenge\EncapsulationChallenge\obj\Debug\EncapsulationChallenge.pdb
+C:\Learning\CSharpApplications\EncapsulationChallenge\EncapsulationChallenge\bin\Debug\Module01.dll
+C:\Learning\CSharpApplications\EncapsulationChallenge\EncapsulationChallenge\bin\Debug\Module02.dll
+C:\Learning\CSharpApplications\EncapsulationChallenge\EncapsulationChallenge\bin\Debug\Module03.dll
+C:\Learning\CSharpApplications\EncapsulationChallenge\EncapsulationChallenge\bin\Debug\Module01.pdb
+C:\Learning\CSharpApplications\EncapsulationChallenge\EncapsulationChallenge\bin\Debug\Module02.pdb
+C:\Learning\CSharpApplications\EncapsulationChallenge\EncapsulationChallenge\bin\Debug\Module03.pdb
+C:\Learning\CSharpApplications\EncapsulationChallenge\EncapsulationChallenge\obj\Debug\Encapsul.A1C43DF4.Up2Date

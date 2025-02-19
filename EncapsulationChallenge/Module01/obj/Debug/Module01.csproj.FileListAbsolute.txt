@@ -1,0 +1,6 @@
+C:\Learning\CSharpApplications\EncapsulationChallenge\Module01\bin\Debug\Module01.dll
+C:\Learning\CSharpApplications\EncapsulationChallenge\Module01\bin\Debug\Module01.pdb
+C:\Learning\CSharpApplications\EncapsulationChallenge\Module01\obj\Debug\Module01.csproj.AssemblyReference.cache
+C:\Learning\CSharpApplications\EncapsulationChallenge\Module01\obj\Debug\Module01.csproj.CoreCompileInputs.cache
+C:\Learning\CSharpApplications\EncapsulationChallenge\Module01\obj\Debug\Module01.dll
+C:\Learning\CSharpApplications\EncapsulationChallenge\Module01\obj\Debug\Module01.pdb

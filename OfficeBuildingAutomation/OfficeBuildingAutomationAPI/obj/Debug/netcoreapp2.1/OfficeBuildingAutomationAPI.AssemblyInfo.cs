@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OfficeBuildingAutomationAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f56461a7fbbd46003f1e12ae239584460d6816b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f937381f3a26b7433e32f35cac63dbe4d4b55c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("OfficeBuildingAutomationAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OfficeBuildingAutomationAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
