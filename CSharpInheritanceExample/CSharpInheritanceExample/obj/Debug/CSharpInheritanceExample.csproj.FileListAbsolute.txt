@@ -1,0 +1,7 @@
+C:\Learning\CSharpApplications\CSharpInheritanceExample\CSharpInheritanceExample\bin\Debug\CSharpInheritanceExample.exe.config
+C:\Learning\CSharpApplications\CSharpInheritanceExample\CSharpInheritanceExample\bin\Debug\CSharpInheritanceExample.exe
+C:\Learning\CSharpApplications\CSharpInheritanceExample\CSharpInheritanceExample\bin\Debug\CSharpInheritanceExample.pdb
+C:\Learning\CSharpApplications\CSharpInheritanceExample\CSharpInheritanceExample\obj\Debug\CSharpInheritanceExample.csproj.AssemblyReference.cache
+C:\Learning\CSharpApplications\CSharpInheritanceExample\CSharpInheritanceExample\obj\Debug\CSharpInheritanceExample.csproj.CoreCompileInputs.cache
+C:\Learning\CSharpApplications\CSharpInheritanceExample\CSharpInheritanceExample\obj\Debug\CSharpInheritanceExample.exe
+C:\Learning\CSharpApplications\CSharpInheritanceExample\CSharpInheritanceExample\obj\Debug\CSharpInheritanceExample.pdb

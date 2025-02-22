@@ -1,0 +1,7 @@
+C:\Learning\CSharpApplications\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Learning\CSharpApplications\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Learning\CSharpApplications\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Learning\CSharpApplications\Shapes\Shapes\obj\Debug\Shapes.csproj.AssemblyReference.cache
+C:\Learning\CSharpApplications\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Learning\CSharpApplications\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Learning\CSharpApplications\Shapes\Shapes\obj\Debug\Shapes.pdb

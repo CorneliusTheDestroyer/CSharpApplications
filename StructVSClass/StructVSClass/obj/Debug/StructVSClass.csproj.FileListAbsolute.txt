@@ -1,0 +1,7 @@
+C:\Learning\CSharpApplications\StructVSClass\StructVSClass\bin\Debug\StructVSClass.exe.config
+C:\Learning\CSharpApplications\StructVSClass\StructVSClass\bin\Debug\StructVSClass.exe
+C:\Learning\CSharpApplications\StructVSClass\StructVSClass\bin\Debug\StructVSClass.pdb
+C:\Learning\CSharpApplications\StructVSClass\StructVSClass\obj\Debug\StructVSClass.csproj.AssemblyReference.cache
+C:\Learning\CSharpApplications\StructVSClass\StructVSClass\obj\Debug\StructVSClass.csproj.CoreCompileInputs.cache
+C:\Learning\CSharpApplications\StructVSClass\StructVSClass\obj\Debug\StructVSClass.exe
+C:\Learning\CSharpApplications\StructVSClass\StructVSClass\obj\Debug\StructVSClass.pdb
