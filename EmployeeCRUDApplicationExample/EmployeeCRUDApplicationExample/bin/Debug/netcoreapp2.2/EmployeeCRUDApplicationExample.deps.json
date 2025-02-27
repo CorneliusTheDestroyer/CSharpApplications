@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "EmployeeCRUDApplicationExample/1.0.0": {
+        "dependencies": {
+          "EmployeeComponent": "1.0.0"
+        },
+        "runtime": {
+          "EmployeeCRUDApplicationExample.dll": {}
+        }
+      },
+      "EmployeeComponent/1.0.0": {
+        "runtime": {
+          "EmployeeComponent.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeCRUDApplicationExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeComponent/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

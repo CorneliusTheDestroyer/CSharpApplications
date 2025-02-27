@@ -1,0 +1,11 @@
+C:\Development\CSharpApplications\WildCatsApplication\WildCatsApplication\bin\Debug\netcoreapp3.0\WildCatsApplication.exe
+C:\Development\CSharpApplications\WildCatsApplication\WildCatsApplication\bin\Debug\netcoreapp3.0\WildCatsApplication.deps.json
+C:\Development\CSharpApplications\WildCatsApplication\WildCatsApplication\bin\Debug\netcoreapp3.0\WildCatsApplication.runtimeconfig.json
+C:\Development\CSharpApplications\WildCatsApplication\WildCatsApplication\bin\Debug\netcoreapp3.0\WildCatsApplication.runtimeconfig.dev.json
+C:\Development\CSharpApplications\WildCatsApplication\WildCatsApplication\bin\Debug\netcoreapp3.0\WildCatsApplication.dll
+C:\Development\CSharpApplications\WildCatsApplication\WildCatsApplication\bin\Debug\netcoreapp3.0\WildCatsApplication.pdb
+C:\Development\CSharpApplications\WildCatsApplication\WildCatsApplication\obj\Debug\netcoreapp3.0\WildCatsApplication.csprojAssemblyReference.cache
+C:\Development\CSharpApplications\WildCatsApplication\WildCatsApplication\obj\Debug\netcoreapp3.0\WildCatsApplication.AssemblyInfoInputs.cache
+C:\Development\CSharpApplications\WildCatsApplication\WildCatsApplication\obj\Debug\netcoreapp3.0\WildCatsApplication.AssemblyInfo.cs
+C:\Development\CSharpApplications\WildCatsApplication\WildCatsApplication\obj\Debug\netcoreapp3.0\WildCatsApplication.dll
+C:\Development\CSharpApplications\WildCatsApplication\WildCatsApplication\obj\Debug\netcoreapp3.0\WildCatsApplication.pdb

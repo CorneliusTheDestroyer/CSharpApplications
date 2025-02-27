@@ -1,0 +1,11 @@
+C:\Learning\CSharpApplications\EmployeeCRUDApplicationExample\EmployeeComponent\bin\Debug\netstandard2.0\EmployeeComponent.deps.json
+C:\Learning\CSharpApplications\EmployeeCRUDApplicationExample\EmployeeComponent\bin\Debug\netstandard2.0\EmployeeComponent.dll
+C:\Learning\CSharpApplications\EmployeeCRUDApplicationExample\EmployeeComponent\bin\Debug\netstandard2.0\EmployeeComponent.pdb
+C:\Learning\CSharpApplications\EmployeeCRUDApplicationExample\EmployeeComponent\obj\Debug\netstandard2.0\EmployeeComponent.csproj.AssemblyReference.cache
+C:\Learning\CSharpApplications\EmployeeCRUDApplicationExample\EmployeeComponent\obj\Debug\netstandard2.0\EmployeeComponent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\CSharpApplications\EmployeeCRUDApplicationExample\EmployeeComponent\obj\Debug\netstandard2.0\EmployeeComponent.AssemblyInfoInputs.cache
+C:\Learning\CSharpApplications\EmployeeCRUDApplicationExample\EmployeeComponent\obj\Debug\netstandard2.0\EmployeeComponent.AssemblyInfo.cs
+C:\Learning\CSharpApplications\EmployeeCRUDApplicationExample\EmployeeComponent\obj\Debug\netstandard2.0\EmployeeComponent.csproj.CoreCompileInputs.cache
+C:\Learning\CSharpApplications\EmployeeCRUDApplicationExample\EmployeeComponent\obj\Debug\netstandard2.0\EmployeeComponent.sourcelink.json
+C:\Learning\CSharpApplications\EmployeeCRUDApplicationExample\EmployeeComponent\obj\Debug\netstandard2.0\EmployeeComponent.dll
+C:\Learning\CSharpApplications\EmployeeCRUDApplicationExample\EmployeeComponent\obj\Debug\netstandard2.0\EmployeeComponent.pdb
