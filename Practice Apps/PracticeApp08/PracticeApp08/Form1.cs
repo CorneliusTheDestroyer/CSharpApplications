@@ -6,20 +6,20 @@ namespace PracticeApp08
         {
             InitializeComponent();
 
-            BankAccount bankAccount = new BankAccount();
-            bankAccount.Owner = "John Doe";
-            bankAccount.AccountNumber = Guid.NewGuid();
-            bankAccount.Balance = 1000.00m;
+            BankAccount bankAccount = new BankAccount("John Doe");
+            //bankAccount.Owner = "John Doe";
+            //bankAccount.AccountNumber = Guid.NewGuid();
+            //bankAccount.Balance = 1000.00m;
 
-            BankAccount bankAccount2 = new BankAccount();
-            bankAccount2.Owner = "Pieter";
-            bankAccount2.AccountNumber = Guid.NewGuid();
-            bankAccount2.Balance = 2000.00m;
+            BankAccount bankAccount2 = new BankAccount("Pieter");
+            //bankAccount2.Owner = "Pieter";
+            //bankAccount2.AccountNumber = Guid.NewGuid();
+            //bankAccount2.Balance = 2000.00m;
 
-            BankAccount bankAccount3 = new BankAccount();
-            bankAccount3.Owner = "Billy";
-            bankAccount3.AccountNumber = Guid.NewGuid();
-            bankAccount3.Balance = 500.00m;
+            BankAccount bankAccount3 = new BankAccount("Billy");
+            //bankAccount3.Owner = "Billy";
+            //bankAccount3.AccountNumber = Guid.NewGuid();
+            //bankAccount3.Balance = 500.00m;
 
             List<BankAccount> bankAccounts = new List<BankAccount>();
             bankAccounts.Add(bankAccount);
