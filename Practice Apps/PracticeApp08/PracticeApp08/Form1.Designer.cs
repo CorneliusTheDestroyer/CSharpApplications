@@ -90,6 +90,7 @@
             btnCreateAccount.TabIndex = 6;
             btnCreateAccount.Text = "Create Account";
             btnCreateAccount.UseVisualStyleBackColor = true;
+            btnCreateAccount.Click += btnCreateAccount_Click;
             // 
             // btnDeposit
             // 
