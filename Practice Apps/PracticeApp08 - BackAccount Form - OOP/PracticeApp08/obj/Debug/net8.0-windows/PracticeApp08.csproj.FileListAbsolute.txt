@@ -1,0 +1,34 @@
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08\PracticeApp08\obj\Debug\net8.0-windows\PracticeApp08.Form1.resources
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08\PracticeApp08\obj\Debug\net8.0-windows\PracticeApp08.csproj.GenerateResource.cache
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08\PracticeApp08\obj\Debug\net8.0-windows\PracticeApp08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08\PracticeApp08\obj\Debug\net8.0-windows\PracticeApp08.AssemblyInfoInputs.cache
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08\PracticeApp08\obj\Debug\net8.0-windows\PracticeApp08.AssemblyInfo.cs
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08\PracticeApp08\obj\Debug\net8.0-windows\PracticeApp08.csproj.CoreCompileInputs.cache
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08\PracticeApp08\obj\Debug\net8.0-windows\PracticeApp08.sourcelink.json
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08\PracticeApp08\bin\Debug\net8.0-windows\PracticeApp08.exe
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08\PracticeApp08\bin\Debug\net8.0-windows\PracticeApp08.deps.json
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08\PracticeApp08\bin\Debug\net8.0-windows\PracticeApp08.runtimeconfig.json
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08\PracticeApp08\bin\Debug\net8.0-windows\PracticeApp08.dll
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08\PracticeApp08\bin\Debug\net8.0-windows\PracticeApp08.pdb
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08\PracticeApp08\obj\Debug\net8.0-windows\PracticeApp08.dll
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08\PracticeApp08\obj\Debug\net8.0-windows\refint\PracticeApp08.dll
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08\PracticeApp08\obj\Debug\net8.0-windows\PracticeApp08.pdb
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08\PracticeApp08\obj\Debug\net8.0-windows\PracticeApp08.genruntimeconfig.cache
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08\PracticeApp08\obj\Debug\net8.0-windows\ref\PracticeApp08.dll
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08 - BackAccount Form - OOP\PracticeApp08\bin\Debug\net8.0-windows\PracticeApp08.exe
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08 - BackAccount Form - OOP\PracticeApp08\bin\Debug\net8.0-windows\PracticeApp08.deps.json
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08 - BackAccount Form - OOP\PracticeApp08\bin\Debug\net8.0-windows\PracticeApp08.runtimeconfig.json
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08 - BackAccount Form - OOP\PracticeApp08\bin\Debug\net8.0-windows\PracticeApp08.dll
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08 - BackAccount Form - OOP\PracticeApp08\bin\Debug\net8.0-windows\PracticeApp08.pdb
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08 - BackAccount Form - OOP\PracticeApp08\obj\Debug\net8.0-windows\PracticeApp08.Form1.resources
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08 - BackAccount Form - OOP\PracticeApp08\obj\Debug\net8.0-windows\PracticeApp08.csproj.GenerateResource.cache
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08 - BackAccount Form - OOP\PracticeApp08\obj\Debug\net8.0-windows\PracticeApp08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08 - BackAccount Form - OOP\PracticeApp08\obj\Debug\net8.0-windows\PracticeApp08.AssemblyInfoInputs.cache
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08 - BackAccount Form - OOP\PracticeApp08\obj\Debug\net8.0-windows\PracticeApp08.AssemblyInfo.cs
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08 - BackAccount Form - OOP\PracticeApp08\obj\Debug\net8.0-windows\PracticeApp08.csproj.CoreCompileInputs.cache
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08 - BackAccount Form - OOP\PracticeApp08\obj\Debug\net8.0-windows\PracticeApp08.sourcelink.json
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08 - BackAccount Form - OOP\PracticeApp08\obj\Debug\net8.0-windows\PracticeApp08.dll
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08 - BackAccount Form - OOP\PracticeApp08\obj\Debug\net8.0-windows\refint\PracticeApp08.dll
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08 - BackAccount Form - OOP\PracticeApp08\obj\Debug\net8.0-windows\PracticeApp08.pdb
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08 - BackAccount Form - OOP\PracticeApp08\obj\Debug\net8.0-windows\PracticeApp08.genruntimeconfig.cache
+C:\Learning\CSharpApplications\Practice Apps\PracticeApp08 - BackAccount Form - OOP\PracticeApp08\obj\Debug\net8.0-windows\ref\PracticeApp08.dll
