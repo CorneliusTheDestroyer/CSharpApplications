@@ -36,8 +36,11 @@
             btnCreateAccount = new Button();
             btnDeposit = new Button();
             btnWithdraw = new Button();
+            label3 = new Label();
+            tbInterest = new NumericUpDown();
             ((System.ComponentModel.ISupportInitialize)gridAccount).BeginInit();
             ((System.ComponentModel.ISupportInitialize)tbAmount).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)tbInterest).BeginInit();
             SuspendLayout();
             // 
             // label1
@@ -86,7 +89,7 @@
             // 
             // btnCreateAccount
             // 
-            btnCreateAccount.Location = new Point(126, 140);
+            btnCreateAccount.Location = new Point(126, 181);
             btnCreateAccount.Name = "btnCreateAccount";
             btnCreateAccount.Size = new Size(176, 29);
             btnCreateAccount.TabIndex = 6;
@@ -114,11 +117,31 @@
             btnWithdraw.UseVisualStyleBackColor = true;
             btnWithdraw.Click += btnWithdraw_Click;
             // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Location = new Point(55, 140);
+            label3.Name = "label3";
+            label3.Size = new Size(117, 20);
+            label3.TabIndex = 9;
+            label3.Text = "Interest rate (%):";
+            // 
+            // tbInterest
+            // 
+            tbInterest.Location = new Point(178, 138);
+            tbInterest.Maximum = new decimal(new int[] { 1215752192, 23, 0, 0 });
+            tbInterest.Minimum = new decimal(new int[] { -727379968, 232, 0, int.MinValue });
+            tbInterest.Name = "tbInterest";
+            tbInterest.Size = new Size(124, 27);
+            tbInterest.TabIndex = 10;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(tbInterest);
+            Controls.Add(label3);
             Controls.Add(btnWithdraw);
             Controls.Add(btnDeposit);
             Controls.Add(btnCreateAccount);
@@ -131,6 +154,7 @@
             Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)gridAccount).EndInit();
             ((System.ComponentModel.ISupportInitialize)tbAmount).EndInit();
+            ((System.ComponentModel.ISupportInitialize)tbInterest).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -145,5 +169,7 @@
         private Button btnCreateAccount;
         private Button btnDeposit;
         private Button btnWithdraw;
+        private Label label3;
+        private NumericUpDown tbInterest;
     }
 }

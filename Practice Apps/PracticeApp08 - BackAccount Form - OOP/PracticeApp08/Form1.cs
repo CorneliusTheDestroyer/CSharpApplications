@@ -69,12 +69,15 @@ namespace PracticeApp08
             
             if (string.IsNullOrEmpty(tbOwner.Text))
                 return;
-        
-            BankAccount bankAccount = new BankAccount(tbOwner.Text);
-            BankAccounts.Add(bankAccount);
 
+            if (tbInterest.Value > 0)
+                BankAccounts.Add(new SavingsAccount(tbOwner.Text, tbInterest.Value));
+            else
+                BankAccounts.Add(new BankAccount(tbOwner.Text));
+            
             RefreshGrid();
             tbOwner.Clear();
+            tbInterest.Value = 0;
         }
 
         private void RefreshGrid()
