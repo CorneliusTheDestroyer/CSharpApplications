@@ -10,7 +10,7 @@ namespace PracticeApp08
     {
         public string Owner { get; set; }
         public Guid AccountNumber { get; set; }
-        public decimal Balance { get; private set; }
+        public decimal Balance { get; protected set; }
 
         public BankAccount(string owner)
         {
@@ -19,7 +19,7 @@ namespace PracticeApp08
             Balance = 0.00m;
         }
 
-        public string Deposit(decimal amount)
+        public virtual string Deposit(decimal amount)
         {
             if (amount <= 0)
                 return "Deposit amount must be positive.";
