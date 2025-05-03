@@ -8,6 +8,7 @@ namespace PracticeApp10
 
             cbbMarvelDC.Items.Add("Marvel");
             cbbMarvelDC.Items.Add("DC");
+            cbbMarvelDC.Items.Add("Other");
 
             cbbMarvelDC.SelectedIndex = 0;
         }
