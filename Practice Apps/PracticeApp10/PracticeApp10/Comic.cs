@@ -8,14 +8,14 @@ namespace PracticeApp10
 {
     internal class Comic
     {
-        public int Name { get; set; }
+        public string Name { get; set; }
         public int Year { get; set; }
-        public int Author { get; set; }
-        public int Publisher { get; set; }
-        public int Genre { get; set; }
+        public string Author { get; set; }
+        public string Publisher { get; set; }
+        public string Genre { get; set; }
         public int Price { get; set; }
 
-        public Comic(int name, int year, int author, int publisher, int genre, int price)
+        public Comic(string name, int year, string author, string publisher, string genre, int price)
         {
             Name = name;
             Year = year;
@@ -24,5 +24,6 @@ namespace PracticeApp10
             Genre = genre;
             Price = price;
         }
+
     }
 }
