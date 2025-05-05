@@ -23,7 +23,7 @@ namespace PracticeApp10
         private void btnAdd_Click_1(object sender, EventArgs e)
         {
             if (string.IsNullOrWhiteSpace(txtName.Text) || string.IsNullOrWhiteSpace(txtYear.Text) ||
-                string.IsNullOrWhiteSpace(txtAuthor.Text) || /*string.IsNullOrWhiteSpace(txtPublisher.Text) || */
+                string.IsNullOrWhiteSpace(txtAuthor.Text) || string.IsNullOrWhiteSpace(cbbPublisher.Text) || 
                 string.IsNullOrWhiteSpace(txtGenre.Text) || string.IsNullOrWhiteSpace(txtPrice.Text))
             {
                 MessageBox.Show("Please fill in all fields.");
