@@ -39,7 +39,7 @@ namespace PracticeApp10
             Comic comic = new Comic(txtName.Text, year, txtAuthor.Text, cbbPublisher.Text, txtGenre.Text, price);
             ComicList.Add(comic);
 
-            //MessageBox.Show("Comic added successfully!");
+            MessageBox.Show("Comic added successfully!");
 
             gridComics.DataSource = null; 
             gridComics.DataSource = ComicList; 
