@@ -26,13 +26,13 @@ namespace PracticeApp10
                 string.IsNullOrWhiteSpace(txtAuthor.Text) || string.IsNullOrWhiteSpace(cbbPublisher.Text) || 
                 string.IsNullOrWhiteSpace(txtGenre.Text) || string.IsNullOrWhiteSpace(txtPrice.Text))
             {
-                MessageBox.Show("Please fill in all fields.");
+                MessageBox.Show("Fields cannot be empty. Please fill in all fields.");
                 return;
             }
 
             if (!int.TryParse(txtYear.Text, out int year) || !int.TryParse(txtPrice.Text, out int price))
             {
-                MessageBox.Show("Year and Price must be numbers.");
+                MessageBox.Show("Incorrect format. Year and Price must be numbers.");
                 return;
             }
 
