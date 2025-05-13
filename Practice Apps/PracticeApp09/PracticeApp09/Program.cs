@@ -5,7 +5,11 @@ List<string> shoppingList = new List<string>
     "bananas",
     "carrots",
     "doughnuts",
-    "eggs"
+    "eggs",
+    "fish",
+    "grapes",
+    "honey",
+    "ice cream"
 };
 
 string userInput;

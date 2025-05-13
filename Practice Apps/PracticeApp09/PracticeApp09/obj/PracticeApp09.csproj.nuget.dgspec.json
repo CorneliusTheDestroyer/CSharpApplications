@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Learning\\CSharpApplications\\Practice Apps\\PracticeApp09\\PracticeApp09\\PracticeApp09.csproj": {}
+    "/home/revanstorm/Source/CSharpApplications/Practice Apps/PracticeApp09/PracticeApp09/PracticeApp09.csproj": {}
   },
   "projects": {
-    "C:\\Learning\\CSharpApplications\\Practice Apps\\PracticeApp09\\PracticeApp09\\PracticeApp09.csproj": {
+    "/home/revanstorm/Source/CSharpApplications/Practice Apps/PracticeApp09/PracticeApp09/PracticeApp09.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Learning\\CSharpApplications\\Practice Apps\\PracticeApp09\\PracticeApp09\\PracticeApp09.csproj",
+        "projectUniqueName": "/home/revanstorm/Source/CSharpApplications/Practice Apps/PracticeApp09/PracticeApp09/PracticeApp09.csproj",
         "projectName": "PracticeApp09",
-        "projectPath": "C:\\Learning\\CSharpApplications\\Practice Apps\\PracticeApp09\\PracticeApp09\\PracticeApp09.csproj",
-        "packagesPath": "C:\\Users\\revan\\.nuget\\packages\\",
-        "outputPath": "C:\\Learning\\CSharpApplications\\Practice Apps\\PracticeApp09\\PracticeApp09\\obj\\",
+        "projectPath": "/home/revanstorm/Source/CSharpApplications/Practice Apps/PracticeApp09/PracticeApp09/PracticeApp09.csproj",
+        "packagesPath": "/home/revanstorm/.nuget/packages/",
+        "outputPath": "/home/revanstorm/Source/CSharpApplications/Practice Apps/PracticeApp09/PracticeApp09/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\revan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/revanstorm/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,13 +32,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -65,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.115/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
