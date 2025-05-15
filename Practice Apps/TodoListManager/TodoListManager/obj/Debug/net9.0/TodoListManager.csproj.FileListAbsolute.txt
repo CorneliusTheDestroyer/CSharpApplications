@@ -1,0 +1,15 @@
+C:\Learning\CSharpApplications\Practice Apps\TodoListManager\TodoListManager\bin\Debug\net9.0\TodoListManager.exe
+C:\Learning\CSharpApplications\Practice Apps\TodoListManager\TodoListManager\bin\Debug\net9.0\TodoListManager.deps.json
+C:\Learning\CSharpApplications\Practice Apps\TodoListManager\TodoListManager\bin\Debug\net9.0\TodoListManager.runtimeconfig.json
+C:\Learning\CSharpApplications\Practice Apps\TodoListManager\TodoListManager\bin\Debug\net9.0\TodoListManager.dll
+C:\Learning\CSharpApplications\Practice Apps\TodoListManager\TodoListManager\bin\Debug\net9.0\TodoListManager.pdb
+C:\Learning\CSharpApplications\Practice Apps\TodoListManager\TodoListManager\obj\Debug\net9.0\TodoListManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\CSharpApplications\Practice Apps\TodoListManager\TodoListManager\obj\Debug\net9.0\TodoListManager.AssemblyInfoInputs.cache
+C:\Learning\CSharpApplications\Practice Apps\TodoListManager\TodoListManager\obj\Debug\net9.0\TodoListManager.AssemblyInfo.cs
+C:\Learning\CSharpApplications\Practice Apps\TodoListManager\TodoListManager\obj\Debug\net9.0\TodoListManager.csproj.CoreCompileInputs.cache
+C:\Learning\CSharpApplications\Practice Apps\TodoListManager\TodoListManager\obj\Debug\net9.0\TodoListManager.sourcelink.json
+C:\Learning\CSharpApplications\Practice Apps\TodoListManager\TodoListManager\obj\Debug\net9.0\TodoListManager.dll
+C:\Learning\CSharpApplications\Practice Apps\TodoListManager\TodoListManager\obj\Debug\net9.0\refint\TodoListManager.dll
+C:\Learning\CSharpApplications\Practice Apps\TodoListManager\TodoListManager\obj\Debug\net9.0\TodoListManager.pdb
+C:\Learning\CSharpApplications\Practice Apps\TodoListManager\TodoListManager\obj\Debug\net9.0\TodoListManager.genruntimeconfig.cache
+C:\Learning\CSharpApplications\Practice Apps\TodoListManager\TodoListManager\obj\Debug\net9.0\ref\TodoListManager.dll
