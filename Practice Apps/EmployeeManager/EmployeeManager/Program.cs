@@ -6,19 +6,22 @@ internal class Program
 
     private static void Main(string[] args)
     {
-        Console.WriteLine("Welcome to Employee Manager! Please select an option: ");
-        Console.WriteLine("1 - View Employees");
-        Console.WriteLine("2 - Add Employee");
-        Console.WriteLine("3 - Update Employee");
-        Console.WriteLine("4 - Remove Employee");
-        Console.WriteLine("5 - Exit Application");
-
-        var option = Console.ReadLine();
+        Console.WriteLine("Welcome to Employee Manager!");
+        Console.WriteLine("----------------------------");
 
         bool running = true;
 
         while (running)
         {
+            Console.WriteLine("Please select an option: ");
+            Console.WriteLine("1 - View Employees");
+            Console.WriteLine("2 - Add Employee");
+            Console.WriteLine("3 - Update Employee");
+            Console.WriteLine("4 - Remove Employee");
+            Console.WriteLine("5 - Exit Application");
+
+            var option = Console.ReadLine();
+
             switch (option)
             {
                 case "1":
@@ -31,6 +34,20 @@ internal class Program
                     string newEmployee = Console.ReadLine();
 
                     AddEmployee(newEmployee);
+                    break;
+                case "3":
+                    Console.Clear();
+                    Console.WriteLine("Please enter Employee name: ");
+                    string updateEmployee = Console.ReadLine();
+
+                    UpdateEmployee(updateEmployee);
+                    break;
+                case "4":
+                    Console.Clear();
+                    Console.WriteLine("Please enter Employee name: ");
+                    string deleteEmployee = Console.ReadLine();
+
+                    DeleteEmployee(deleteEmployee);
                     break;
                 case "5":
                     Console.Clear();
