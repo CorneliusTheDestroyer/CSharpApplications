@@ -6,13 +6,14 @@ internal class Program
 
     private static void Main(string[] args)
     {
-        Console.WriteLine("Welcome to Employee Manager!");
         Console.WriteLine("----------------------------");
+        Console.WriteLine("Welcome to Employee Manager!");
 
         bool running = true;
 
         while (running)
         {
+            Console.WriteLine("----------------------------");
             Console.WriteLine("Please select an option: ");
             Console.WriteLine("1 - View Employees");
             Console.WriteLine("2 - Add Employee");
