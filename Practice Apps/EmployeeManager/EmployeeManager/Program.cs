@@ -98,8 +98,6 @@ internal class Program
                     Console.WriteLine("Invalid Salary input. Salary needs to be decimal.");
 
             }
-            else
-                Console.WriteLine("Employee does not exists!");
         }
     }
 
