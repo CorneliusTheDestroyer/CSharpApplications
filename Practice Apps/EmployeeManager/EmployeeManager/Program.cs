@@ -95,7 +95,7 @@ internal class Program
                     Console.WriteLine("Salary Updated successfully");
                 }
                 else
-                    Console.WriteLine("Invalid Salary input. Salary needs to be decimal.");
+                    Console.WriteLine("Invalid Salary input. ");
 
             }
         }
