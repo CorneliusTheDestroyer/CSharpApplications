@@ -77,9 +77,8 @@ class Program
             }
         }
         else
-        {
             Console.WriteLine("No tasks available.");
-        }
+        
     }
 
     static void MarkTaskComplete(string title) 
