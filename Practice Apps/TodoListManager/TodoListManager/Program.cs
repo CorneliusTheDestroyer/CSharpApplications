@@ -77,7 +77,7 @@ class Program
             }
         }
         else
-            Console.WriteLine("No tasks available.");
+            Console.WriteLine("No tasks available. Add new tasks to view.");
         
     }
 
