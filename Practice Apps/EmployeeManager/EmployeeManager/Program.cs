@@ -77,7 +77,7 @@ internal class Program
             }
         }
         else
-            Console.WriteLine("No Eployees available. Execute Add Employee.");
+            Console.WriteLine("No Eployees available.");
     }
 
     public static void UpdateEmployee(string name)
