@@ -59,7 +59,6 @@ internal class Program
                     break;
             }
         }
-
     }
 
     public static void AddEmployee(string name)
