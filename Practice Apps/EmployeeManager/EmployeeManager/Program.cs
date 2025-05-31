@@ -59,7 +59,6 @@ internal class Program
                     break;
             }
         }
-
     }
 
     public static void AddEmployee(string name)
@@ -77,7 +76,7 @@ internal class Program
             }
         }
         else
-            Console.WriteLine("No Eployees available. Execute Add Employee.");
+            Console.WriteLine("No Eployees available.");
     }
 
     public static void UpdateEmployee(string name)
@@ -95,8 +94,9 @@ internal class Program
                     Console.WriteLine("Salary Updated successfully");
                 }
                 else
-                    Console.WriteLine("Invalid Salary input. (Decimal format required)");
-
+                {
+                    Console.WriteLine("Invalid Salary input.");
+                }
             }
         }
     }
