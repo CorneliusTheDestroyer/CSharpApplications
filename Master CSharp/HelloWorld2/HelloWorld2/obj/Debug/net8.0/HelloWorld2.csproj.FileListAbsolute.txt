@@ -1,0 +1,15 @@
+C:\Learning\CSharpApplications\Master CSharp\HelloWorld2\HelloWorld2\bin\Debug\net8.0\HelloWorld2.exe
+C:\Learning\CSharpApplications\Master CSharp\HelloWorld2\HelloWorld2\bin\Debug\net8.0\HelloWorld2.deps.json
+C:\Learning\CSharpApplications\Master CSharp\HelloWorld2\HelloWorld2\bin\Debug\net8.0\HelloWorld2.runtimeconfig.json
+C:\Learning\CSharpApplications\Master CSharp\HelloWorld2\HelloWorld2\bin\Debug\net8.0\HelloWorld2.dll
+C:\Learning\CSharpApplications\Master CSharp\HelloWorld2\HelloWorld2\bin\Debug\net8.0\HelloWorld2.pdb
+C:\Learning\CSharpApplications\Master CSharp\HelloWorld2\HelloWorld2\obj\Debug\net8.0\HelloWorld2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\CSharpApplications\Master CSharp\HelloWorld2\HelloWorld2\obj\Debug\net8.0\HelloWorld2.AssemblyInfoInputs.cache
+C:\Learning\CSharpApplications\Master CSharp\HelloWorld2\HelloWorld2\obj\Debug\net8.0\HelloWorld2.AssemblyInfo.cs
+C:\Learning\CSharpApplications\Master CSharp\HelloWorld2\HelloWorld2\obj\Debug\net8.0\HelloWorld2.csproj.CoreCompileInputs.cache
+C:\Learning\CSharpApplications\Master CSharp\HelloWorld2\HelloWorld2\obj\Debug\net8.0\HelloWorld2.sourcelink.json
+C:\Learning\CSharpApplications\Master CSharp\HelloWorld2\HelloWorld2\obj\Debug\net8.0\HelloWorld2.dll
+C:\Learning\CSharpApplications\Master CSharp\HelloWorld2\HelloWorld2\obj\Debug\net8.0\refint\HelloWorld2.dll
+C:\Learning\CSharpApplications\Master CSharp\HelloWorld2\HelloWorld2\obj\Debug\net8.0\HelloWorld2.pdb
+C:\Learning\CSharpApplications\Master CSharp\HelloWorld2\HelloWorld2\obj\Debug\net8.0\HelloWorld2.genruntimeconfig.cache
+C:\Learning\CSharpApplications\Master CSharp\HelloWorld2\HelloWorld2\obj\Debug\net8.0\ref\HelloWorld2.dll
