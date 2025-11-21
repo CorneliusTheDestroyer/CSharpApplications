@@ -9,6 +9,28 @@
             this.questions = questions;
         }
 
+        public void StartQuiz()
+        {
+            Console.WriteLine("Welcome to the Quiz!");
+            int questionNumber = 1;
+
+            foreach (Question question in questions)
+            {
+                Console.WriteLine($"Question: {questionNumber++}");
+                DisplayQuestion(question);
+                int userChoice = GetUserChoice();
+
+                if (question.IsCorrectAnswer(userChoice))
+                {
+                    Console.WriteLine("Correct!");
+                }
+                else
+                {
+                    Console.WriteLine($"Wrong! The correct answer is: {question.Answers[question.CorrectAnswerIndex]}");
+                }
+            }
+        }
+
         public void DisplayQuestion(Question question)
         {
             Console.ForegroundColor = ConsoleColor.Yellow;
