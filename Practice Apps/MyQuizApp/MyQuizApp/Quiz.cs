@@ -11,6 +11,9 @@
 
         public void DisplayQuestion(Question question)
         {
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("--Questions-----------------------");
+            Console.ResetColor();
             Console.WriteLine(question.QuestionText);
 
             for (int i = 0; i < question.Answers.Length; i++)
@@ -22,5 +25,19 @@
                 Console.WriteLine($". {question.Answers[i]}");
             }
         }
+
+        private int GetUserChoice()
+        {
+            Console.Write("Your answer (number): ");
+            string input = Console.ReadLine();
+            int choice = 0;
+
+            while (!int.TryParse(input, out choice) || choice < 1 || choice > 4)
+            {
+                Console.WriteLine("Invalid choice. Please enter a number between 1 and 4: ");
+                input = Console.ReadLine();
+            }
+
+            return choice - 1;
+        }
     }
-}
