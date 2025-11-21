@@ -31,7 +31,7 @@
             }
         }
 
-        public void DisplayQuestion(Question question)
+        private void DisplayQuestion(Question question)
         {
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("--Questions-----------------------");
