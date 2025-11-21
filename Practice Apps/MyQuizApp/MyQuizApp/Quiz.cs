@@ -24,6 +24,15 @@
                 Console.ResetColor();
                 Console.WriteLine($". {question.Answers[i]}");
             }
+
+            if (GetUserChoice() == question.CorrectAnswerIndex)
+            {
+                Console.WriteLine("Correct");
+            }
+            else
+            {
+                Console.WriteLine("Incorrect");
+            }
         }
 
         private int GetUserChoice()
@@ -41,3 +50,4 @@
             return choice - 1;
         }
     }
+}
