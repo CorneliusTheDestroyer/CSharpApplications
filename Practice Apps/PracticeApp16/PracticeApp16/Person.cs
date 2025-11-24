@@ -2,8 +2,8 @@
 {
     internal class Person
     {
-        private string _name;
-        private int _age;
+        private static string _name = "";
+        private static int _age = 18;
 
         public string Name { get => _name; set => _name = value; }
         public int Age { get => _age; set => _age = value; }
@@ -14,7 +14,7 @@
             _age = age;
         }
 
-        public void Display() => Console.WriteLine($"Person Name: {_name}, Age: {_age}");
+        public static void Display() => Console.WriteLine($"Person Name: {_name}, Age: {_age}");
 
     }
 }
