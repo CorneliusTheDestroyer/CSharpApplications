@@ -44,9 +44,11 @@
         {
             //Vehicle myVehicle = new Vehicle(01, "BMW");
             Car myCar = new Car(01, "BMW", "Hatchback", "Sports CI");
+            Vehicle myCar2 = new Car(01, "BMW", "Hatchback", "Sports CI");
 
             //myVehicle.ShowMessage();
-            myCar.ShowMessage();
+            //myCar.ShowMessage();
+            myCar2.ShowMessage();
 
             Console.WriteLine($"Car details - Name: {myCar.Name}, Make: {myCar.Make}, Model: {myCar.Model}");
         }
