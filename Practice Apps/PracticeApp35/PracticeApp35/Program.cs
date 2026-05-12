@@ -23,17 +23,32 @@ namespace PracticeApp35
         }
     }
 
+    public class WorkProcess
+    {
+        private readonly IEmployee _employee;
+
+        public WorkProcess(IEmployee employee)
+        {
+            _employee = employee;
+        }
+
+        public void DoTask()
+        {
+            _employee.Task();
+        }
+    }
+
     internal class Program
     {
         static void Main(string[] args)
         {
             IEmployee programmer = new Programmer();
-
-            programmer.Task();
+            WorkProcess workProcess = new WorkProcess(programmer);
+            workProcess.DoTask();
 
             IEmployee manager = new Manager();
-
-            manager.Task();
+            workProcess = new WorkProcess(manager);
+            workProcess.DoTask();
         }
     }
 }
