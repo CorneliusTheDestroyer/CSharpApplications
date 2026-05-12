@@ -27,6 +27,7 @@ namespace PracticeApp35
     {
         private readonly IEmployee _employee;
 
+        //Constructor DI
         public WorkProcess(IEmployee employee)
         {
             _employee = employee;
