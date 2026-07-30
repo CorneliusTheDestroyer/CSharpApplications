@@ -5,7 +5,7 @@
         void Log(string message);
     }
 
-    public class FileLogger: ILogger
+    public class FileLogger : ILogger
     {
         public void Log(string message)
         {
@@ -21,7 +21,7 @@
         }
     }
 
-    public class DatabaseLogger: ILogger
+    public class DatabaseLogger : ILogger
     {
         public void Log(string message)
         {
@@ -46,7 +46,7 @@
     }
 
     /*
-     Decoupling: The Application class depends on the 
+     Decoupling: The Application class depends on the
     ILogger interface rather than specific implementations
     like FileLogger or DatabaseLogger.
     This means you can easily switch the logging mechanism
@@ -55,7 +55,7 @@
 
     internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             ILogger fileLogger = new FileLogger();
             Application app = new Application(fileLogger);
@@ -66,4 +66,7 @@
             app.DoWork();
         }
     }
+
+    //To-Do
+    //Test
 }
