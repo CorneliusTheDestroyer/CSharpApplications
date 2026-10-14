@@ -1,10 +1,19 @@
 ﻿namespace Delegates01
 {
+    public delegate void Process(string message);
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hello, World!");
+            Process processPolicy = Policy;
+
+            processPolicy("Process Policy");
+            
+        }
+
+        static void Policy(string message) 
+        {
+            Console.WriteLine(message);
         }
     }
 }
